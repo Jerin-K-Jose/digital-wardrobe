@@ -1,0 +1,17 @@
+{
+  "name": "coder-of-rajagiri",
+  "version": "1.0.0",
+  "description": "coding challenge 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.18"
+  }
+}
